@@ -195,5 +195,15 @@
 </p>
 -->
 ---
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%8F%86-brightgreen?style=flat-square" alt="Pull Shark Badge"/>
+  <img src="https://img.shields.io/badge/YOLO-%F0%9F%8F%8C-lightgrey?style=flat-square" alt="YOLO Badge"/>
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-%F0%9F%A4%9D-blue?style=flat-square" alt="Pair Extraordinaire Badge"/>
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-%F0%9F%90%9B-purple?style=flat-square" alt="Galaxy Brain Badge"/>
+  <img src="https://img.shields.io/badge/Starstruck-%F0%9F%8C%9F-gold?style=flat-square" alt="Starstruck Badge"/>
+  <img src="https://img.shields.io/badge/Public%20Sponsor-%F0%9F%A4%9D-ff69b4?style=flat-square" alt="Public Sponsor Badge"/>
+</p>
 
 <sub>Last updated: <!-- timestamp auto-updates later --> </sub>
