@@ -1,3 +1,12 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/dadev09/dadev09/blob/main/github-header-banner.png?raw=true" 
+       alt="David GitHub Banner" 
+       width="100%" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+and+Cloud+Developer;Building+scalable+apps+with+React+%2B+Node.js+%2B+AWS" alt="Typing animation" />
+</p>
 <!-- Hero -->
 <h1 align="center">Hi, I'm David 👋</h1>
 <p align="center">
