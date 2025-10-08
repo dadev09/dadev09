@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/dadev09/dadev09/blob/main/github-header-banner.png?raw=true" 
+  <img src="https://github.com/dadev09/dadev09/blob/main/github-banner.png?raw=true" 
        alt="David GitHub Banner" 
        width="100%" />
 </p>
